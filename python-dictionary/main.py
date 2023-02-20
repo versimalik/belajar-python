@@ -3,11 +3,7 @@
 
 student = {"name": "Jaka", "address": "Jakarta Barat"}
 
-car = {
-	"model": "truck",
-	"brand": "ford",
-	"year": 2010,
-	"color": ["red", "blue", "black"]
+
 }
 
 # display dict keys
